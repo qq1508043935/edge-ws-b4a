@@ -1,0 +1,8 @@
+node_modules
+npm-debug.log
+web-worker
+xray.zip
+geoip.dat
+geosite.dat
+.env
+.git
